@@ -14,7 +14,7 @@ role: Undergraduate Student in SCUT
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: []
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: BSc in Software Engineering
     institution: South China University of Technology
-    year: 2018~
+    year: 2018~Now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

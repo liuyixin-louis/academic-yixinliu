@@ -1,7 +1,7 @@
 ---
 title: "Conditional Automated Channel Pruning for Deep Neural Networks"
 authors:
-- YiXin Liu
+- **YiXin Liu**
 - Yong Guo
 - Zichang Liu
 - Haohua Liu

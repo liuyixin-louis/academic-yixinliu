@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://github.com/liuyixin-louis/academic-yixinliu/blob/master/static/files/CACP.pdf
+url_pdf: http://www.lyx6178.cn/download/CACP.pdf
 url_code: 'https://github.com/liuyixin-louis/CACP'
 # url_dataset: ''
 # url_poster: ''

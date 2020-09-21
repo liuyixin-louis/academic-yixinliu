@@ -14,7 +14,7 @@ role: Undergraduate Student in SCUT
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: []
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

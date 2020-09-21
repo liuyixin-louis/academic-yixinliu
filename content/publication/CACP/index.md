@@ -1,16 +1,22 @@
 ---
-title: "An example journal article"
+title: "Conditional Automated Channel Pruning for Deep Neural Networks"
 authors:
-- admin
-- Robert Ford
+- YiXin Liu
+- Yong Guo
+- Zichang Liu
+- Haohua Liu
+- Jingjie Zhang
+- Zejun Chen
+- Jing Liu
+- Jian Chen
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "first-author"
+date: "2020-09-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-09-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,14 +40,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://github.com/liuyixin-louis/academic-yixinliu/blob/master/static/files/CACP.pdf
+url_code: 'https://github.com/liuyixin-louis/CACP'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

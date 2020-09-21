@@ -75,9 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-view = 1
-asdasdads
-
+view = 2
 - 第一个
 - 第二个
 

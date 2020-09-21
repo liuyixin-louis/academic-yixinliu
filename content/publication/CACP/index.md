@@ -10,8 +10,8 @@ authors:
 - Jing Liu
 - Jian Chen
 
-author_notes:
-- "first-author"
+# author_notes:
+# - "first-author"
 date: "2020-09-21T00:00:00Z"
 doi: ""
 

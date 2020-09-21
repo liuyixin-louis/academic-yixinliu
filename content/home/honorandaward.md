@@ -75,6 +75,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- 第一个
-- 第二个
+- Principal’s Scholarship of South China University of Technology
 

@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:yixinliucs@gmail.com'  
+  link: 'mailto:yixinliucs@gmail.com'  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=YiXin%20Liu&user=MYpC6agAAAAJ
